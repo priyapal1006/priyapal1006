@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am priya pal currently learning data analyst and data sci and i am <br>fresher .<br>i know the excel,power bi,sql,python.<br>as i have to start as a fresher looking for  intership to gain knowledge anout real world.
+Aspiring Data Analyst and Data Science enthusiast with knowledge of Excel,SQL,Power BI,and Python.Passionate about transforming raw data into meaningful insights and creating interactive dashboard for better decision-making. As a fresher,i am looking for opportunities to start my career in the field of Data Analytics and Data Science,where i can apply my skill,learn from real-world project,and grow professionally.
 
 
 ## 🌐 Socials:
